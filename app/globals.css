@@ -123,3 +123,19 @@
     @apply bg-background text-foreground;
   }
 }
+
+html, body, :root {
+  height: 100%;
+}
+
+#__next {
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+#app {
+  height: 100%;
+}
