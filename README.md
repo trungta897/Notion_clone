@@ -1,6 +1,6 @@
 # Notion Clone
 
-A fullstack Notion clone built with Next.js, React, Tailwind, Clerk, Convex, Edge Store, and BlockNote.
+A fullstack Notion clone built with Next.js, React, Tailwind, Clerk, Convex, and BlockNote.
 
 ## Features
 
